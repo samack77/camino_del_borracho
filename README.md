@@ -1,6 +1,6 @@
 # Camino_del_borracho
 
-Ejercicio sobre caminos aleatorios para el curso de [Curso de Programación Dinámica y Estocástica con Python](https://platzi.com/clases/programacion-estocastica/)
+Random Path Exercise for the [Dynamic and Stochastic Programming with Python Course](https://platzi.com/clases/programacion-estocastica/)
 
 
 # Dependencies
